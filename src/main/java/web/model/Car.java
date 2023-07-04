@@ -1,6 +1,5 @@
 package web.model;
 
-
 public class Car {
     private String modelCar;
     private String colorCar;
